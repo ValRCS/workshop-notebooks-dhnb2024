@@ -5,6 +5,6 @@ notebooks/runs/
 /datasets
 notebooks/timarit/
 notebooks/yolov8m*
-notebooks/other/
+# notebooks/other/
 notebooks/other/MINO_1_1/
 notebooks/other/MINO_1_1/MINO.xml
