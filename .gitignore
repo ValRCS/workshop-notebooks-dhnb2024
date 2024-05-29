@@ -8,3 +8,5 @@ notebooks/yolov8m*
 # notebooks/other/
 notebooks/other/MINO_1_1/
 notebooks/other/MINO_1_1/MINO.xml
+notebooks/yolov8l.pt
+notebooks/yolov8x.pt
